@@ -1,4 +1,4 @@
-### 👋 Olá, sou o Angelo Vargas!
+### 👋 Olá, sou o Angelo Leonardo!
 
 Desenvolvedor Web focado em criar soluções eficientes e aplicações estruturadas, unindo a perspetiva comportamental e humana com a tecnologia e engenharia de software.
 
