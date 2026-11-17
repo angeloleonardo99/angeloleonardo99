@@ -8,7 +8,7 @@ Desenvolvedor web com JavaScript e Node.js. Gosto de fazer sistemas simples de u
 - SQLite
 
 ## 🚀 Projetos
-- **[portfolio-fullstack](https://github.com/angeloleonardo99/portfolio-fullstack)**: aplicação full stack feita com Node.js. [Ver no ar](https://angeloleonardo99.github.io/portfolio-fullstack/frontend)
+- **[AgendaPro](https://github.com/angeloleonardo99/portfolio-fullstack)**: sistema de agendamento e reservas com Node.js, Express e SQLite. Bloqueia horários em conflito e tem painel com filtros. [Ver no ar](https://angeloleonardo99.github.io/portfolio-fullstack/frontend/)
 
 ## 📚 Estudando agora
 - SQL
